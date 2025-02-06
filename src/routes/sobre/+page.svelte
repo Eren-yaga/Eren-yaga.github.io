@@ -3,16 +3,7 @@
 </script>
 
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f7f7f7;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh;
-    }
+   
 
     #cor {
         width: 80%;
@@ -35,11 +26,6 @@
         color: rgb(201, 97, 37);
         font-size: 1.5rem;
         margin-bottom: 8px;
-    }
-
-    h3 {
-        color: #333;
-        font-size: 1.2rem;
     }
 
     p {
