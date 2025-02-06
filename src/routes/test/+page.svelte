@@ -29,14 +29,8 @@
     }
 
     h1 {
-        color: #333;
+        color: #eb6e6e;
         font-size: 2.5rem;
-    }
-
-    p {
-        color: #666;
-        font-size: 1.1rem;
-        margin-top: 10px;
     }
 
     
@@ -45,9 +39,7 @@
 
 <main>
     <div class="container">
-        <h1>Slifers</h1>
-        <p>Venha conhecer a Slifers Cell a melhor loja de custo benefício todo Brasil</p>
-       
+        <h1>Slifers</h1>      
         <nav>
             <a class="nav-link" href="/sobre">Sobre a gente</a>
             <a class="nav-link" href="/produtos">Nossos produtos</a>
