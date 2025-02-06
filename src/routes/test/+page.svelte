@@ -50,7 +50,7 @@
        
         <nav>
             <a class="nav-link" href="/sobre">Sobre a gente</a>
-            <a class="nav-link" href="/produtos">Produtos</a>
+            <a class="nav-link" href="/produtos">Nossos produtos</a>
         </nav>
     </div>
 </main>
