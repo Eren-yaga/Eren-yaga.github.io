@@ -1,6 +1,3 @@
-<script>
-    let message = "Bem-vindo ao nosso site! Aqui você encontrará as soluções mais inovadoras!";
-</script>
 
 <style>
     .nav-link {
