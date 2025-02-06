@@ -17,16 +17,8 @@
         color: #ffffff;
     }
 
-    body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background-color: #ff7d45;
-        margin: 0;
-        padding: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-    }
+   
+    
 
     .container {
         text-align: center;
@@ -47,16 +39,7 @@
         margin-top: 10px;
     }
 
-    .button {
-        margin-top: 20px;
-        padding: 12px 25px;
-        background-color: #4a90e2;
-        color: #ffffff;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-        font-size: 1rem;
-    }
+    
 
 </style>
 
