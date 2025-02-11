@@ -1,38 +1,13 @@
-# sv
+# Prova-de-Dw
+Entrega do trabalho/prova 
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+# Olá sou o estudante Cleber Freitas.
 
-## Creating a project
+- 🔭 Aqui está a entrega do meu trabalho
+- Eren-yaga.github.ioEren-yaga.github.io
 
-If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npx sv create
+  🤔 Esse e o link da apresentação sobre a Slifer Cell. https://www.canva.com/design/DAGeVyY9IuI/2ddHak3XO5Cnmv9LggOnJQ/edit?utm_content=DAGeVyY9IuI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+- 💬 É uma criação de uma empresa que pensa mais nos clientes que não tem muita condição de comprar um aparelho original.
+- 😄 Portanto, a Slifer Cell chegou para revolucionar o Brasil, podendo ajudar pequenas pessoas com sonhos grandes.
